@@ -1,0 +1,1 @@
+### Let's create a simple Python project that involves basic file operations, user input, and a bit of data manipulation. This project will be a "To-Do List" application that allows users to add, remove, and view tasks.
